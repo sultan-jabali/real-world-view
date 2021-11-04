@@ -1,0 +1,30 @@
+ {
+ events: [
+        {
+          id: 23,
+          time: "12:00",
+          title: "Animal Welfare",
+          description: "Animation",
+          location: "india",
+          date: "january 3, 2020",
+        },
+
+          {
+          id: 23,
+          time: "12:00",
+          title: "Animal Welfare",
+          description: "Animation",
+          location: "india",
+          date: "january 3, 2020",
+        },
+
+        {
+          id: 23,
+          time: "12:00",
+          title: "Animal Welfare",
+          description: "Animation",
+          location: "india",
+          date: "january 3, 2020",
+        },
+      ],
+        },
